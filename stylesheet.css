@@ -1,0 +1,34 @@
+.section1{
+    background-color: #F3E8D3;
+    width: 390px;
+    height: 813px
+    }
+.section2{
+    background-color: #FFDBD6;
+    width: 390px;
+    height: 1534px;
+    }
+.section3{
+    background-color: #F3E8D3;
+    width: 390px;
+    height: 765px;
+    top: -23px
+    }
+.section4{
+    background-color: #FFDBD6;
+    width: 390px;
+    height: 1767px;
+    }
+.section5{
+    background-color: #FFDBD6;
+    width: 390px;
+    height: 639px;
+    }
+.section6{
+    background-color: #F3E8D3;
+    width: 390px;
+    height: 42px;
+    }
+.img{
+    margin-top: -23px;
+    }
